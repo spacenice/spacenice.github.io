@@ -34,3 +34,6 @@ video.unrulymedia.com, 322585001, RESELLER
 xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
 zmaticoo.com, 5135655, RESELLER
+
+pangleglobal.com, 5018105, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
